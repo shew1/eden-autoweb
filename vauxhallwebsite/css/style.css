@@ -5,9 +5,8 @@
     padding-top: 0.1%;
     color: white;
     font-family: Montserrat, sans-serif;
-
-
 }
+
 a {
     color: red;
 }
@@ -21,33 +20,33 @@ a {
    
   }
 
-  .navbar li a, .navbar .navbar-brand { 
+.navbar li a, .navbar .navbar-brand { 
     color: #000;
   }
-  .nav-buttons:hover {
+.nav-buttons:hover {
     color: white;
     background-color: crimson;
     
   }
-  .navbar-nav li.active a {
+.navbar-nav li.active a {
     color: #000;
     background-color: #29292c;
   }
-  .navbar-default .navbar-toggle {
+.navbar-default .navbar-toggle {
     border-color: transparent;
   }
-  .open .dropdown-toggle {
+.open .dropdown-toggle {
     color: #000;
     background-color: #555;
   }
-  .dropdown-menu li a {
+.dropdown-menu li a {
     color: #000;
   }
-  .dropdown-menu li a:hover {
+.dropdown-menu li a:hover {
     background-color: crimson;
   }
 
-    .cars{ 
+.cars{ 
     margin-left: 10%;
     color: white;
     font-family: Montserrat, sans-serif;
@@ -142,3 +141,5 @@ font-family: Montserrat, sans-serif;
     border-radius: 1em;
         
 } 
+
+

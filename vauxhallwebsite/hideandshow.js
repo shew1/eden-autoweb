@@ -1,4 +1,8 @@
+<!--javascript for the hidden content-->
+
 $(document).ready(function(){
+    <!--Crossland X Div-->
+    
     $("p1").hide();
     $("button.1c").hide();
     $("div1").hide();
@@ -14,6 +18,8 @@ $(document).ready(function(){
      $("button.1c").hide()
     $("div1").hide();
   });
+    <!--Mokka X Div-->
+    
       $("p2").hide();
     $("button.1b").hide();
   $("#show2").click(function(){
@@ -26,6 +32,8 @@ $(document).ready(function(){
     $("button.2b").show();
      $("button.1b").hide()
   });
+    <!--Grandland X Div-->
+    
       $("p3").hide();
     $("button.1a").hide();
   $("#show3").click(function(){
